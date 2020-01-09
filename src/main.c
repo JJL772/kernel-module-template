@@ -8,6 +8,7 @@ MODULE_LICENSE("GPL");
 
 static int _module_init(void)
 {
+	printk("Test Kernel Module\n");
 	return 0;
 }
 

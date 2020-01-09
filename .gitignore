@@ -5,3 +5,7 @@ Module.symvers
 bin/
 include/
 lib/
+.cache.mk
+src/*.cmd
+.tmp_versions
+*.mod.c
